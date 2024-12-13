@@ -10,6 +10,8 @@ module.exports = function ({
   OutcomeRoutes,
   MarketRoutes,
   EventRoutes,
+  UserRoutes,
+  BetRoutes,
 }) {
   const router = express.Router();
   const apiRouter = express.Router();
@@ -23,6 +25,8 @@ module.exports = function ({
   apiRouter.use("/outcome", OutcomeRoutes);
   apiRouter.use("/market", MarketRoutes);
   apiRouter.use("/event", EventRoutes);
+  apiRouter.use("/user", UserRoutes);
+  apiRouter.use("/bet", BetRoutes);
 
   router.use("/v1/api", apiRouter);
   router.use("/", (req, res) => {

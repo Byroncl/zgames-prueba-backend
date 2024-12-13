@@ -14,6 +14,8 @@ const {
   OutcomeService,
   MarketService,
   EventService,
+  UserService,
+  BetService,
 } = require("../services");
 //Controllers
 const {
@@ -22,6 +24,8 @@ const {
   OutcomeController,
   MarketController,
   EventController,
+  BetController,
+  UserController,
 } = require("../controllers");
 
 //Startup
@@ -35,6 +39,8 @@ const {
   OutcomeRoutes,
   MarketRoutes,
   EventRoutes,
+  UserRoutes,
+  BetRoutes,
 } = require("../routes/api/index");
 
 //Models
@@ -44,6 +50,8 @@ const {
   Outcome,
   Market,
   Event,
+  User,
+  Bet,
 } = require("../models");
 
 //Funtions
@@ -68,6 +76,8 @@ container
     OutcomeService: asClass(OutcomeService).singleton(),
     MarketService: asClass(MarketService).singleton(),
     EventService: asClass(EventService).singleton(),
+    UserService: asClass(UserService).singleton(),
+    BetService: asClass(BetService).singleton(),
   })
   .register({
     //Configuración de los controladores
@@ -76,6 +86,8 @@ container
     OutcomeController: asClass(OutcomeController).singleton(),
     MarketController: asClass(MarketController).singleton(),
     EventController: asClass(EventController).singleton(),
+    BetController: asClass(BetController).singleton(),
+    UserController: asClass(UserController).singleton(),
   })
   .register({
     //Configuración de rutas
@@ -84,6 +96,8 @@ container
     OutcomeRoutes: asFunction(OutcomeRoutes).singleton(),
     MarketRoutes: asFunction(MarketRoutes).singleton(),
     EventRoutes: asFunction(EventRoutes).singleton(),
+    UserRoutes: asFunction(UserRoutes).singleton(),
+    BetRoutes: asFunction(BetRoutes).singleton(),
   })
   .register({
     //Configuración de modelos
@@ -92,6 +106,8 @@ container
     Outcome: asValue(Outcome),
     Market: asValue(Market),
     Event: asValue(Event),
+    User: asValue(User),
+    Bet: asValue(Bet),
   })
   .register({
     //middlewares
