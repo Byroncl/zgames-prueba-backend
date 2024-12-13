@@ -1,0 +1,1186 @@
+[
+  {
+    "tournamentId": "sr:tournament:23",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "FC Empoli",
+        "en": "Empoli FC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Italia",
+        "en": "Italy"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Torino FC",
+        "en": "Torino FC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Italia",
+        "en": "Italy"
+      }
+    },
+    "eventId": "sr:match:51271731",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "FC Empoli vs. Torino FC",
+      "en": "Empoli FC vs. Torino FC"
+    },
+    "scheduled": "2024-12-13T19:45:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:31",
+      "tournamentName": {
+        "es": "Serie A",
+        "en": "Serie A"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:51271731",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 2.73,
+                "oddsUS": 173,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.333084,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 2.88,
+                "oddsUS": 188,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.314278,
+                "outcomeName": {
+                  "es": "Torino FC",
+                  "en": "Torino FC"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 2.59,
+                "oddsUS": 159,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.352637,
+                "outcomeName": {
+                  "es": "FC Empoli",
+                  "en": "Empoli FC"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:8",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "Real Valladolid",
+        "en": "Real Valladolid"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "España",
+        "en": "Spain"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Valencia CF",
+        "en": "Valencia CF"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "España",
+        "en": "Spain"
+      }
+    },
+    "eventId": "sr:match:50852417",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "Real Valladolid vs. Valencia CF",
+      "en": "Real Valladolid vs. Valencia CF"
+    },
+    "scheduled": "2024-12-13T20:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:32",
+      "tournamentName": {
+        "es": "LaLiga",
+        "en": "LaLiga"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:50852417",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "odds": 2.97,
+                "oddsUS": 197,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.304098,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "odds": 2.3,
+                "oddsUS": 130,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.397917,
+                "outcomeName": {
+                  "es": "Valencia CF",
+                  "en": "Valencia CF"
+                }
+              },
+              {
+                "_id": "1",
+                "odds": 3.03,
+                "oddsUS": 203,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.297988,
+                "outcomeName": {
+                  "es": "Real Valladolid",
+                  "en": "Real Valladolid"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:155",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "CA Barracas Central",
+        "en": "CA Barracas Central"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Atlético Lanus",
+        "en": "CA Lanus"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "eventId": "sr:match:46657313",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "CA Barracas Central vs. Atlético Lanus",
+      "en": "CA Barracas Central vs. CA Lanus"
+    },
+    "scheduled": "2024-12-13T22:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:48",
+      "tournamentName": {
+        "es": "Primera División",
+        "en": "Liga Profesional"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:46657313",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 3.31,
+                "oddsUS": 231,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.267613,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 1.65,
+                "oddsUS": -153.84615384615384,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.565737,
+                "outcomeName": {
+                  "es": "Atlético Lanus",
+                  "en": "CA Lanus"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 5.22,
+                "oddsUS": 422,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.166653,
+                "outcomeName": {
+                  "es": "CA Barracas Central",
+                  "en": "CA Barracas Central"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:155",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "Estudiantes de La Plata",
+        "en": "Estudiantes de La Plata"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Argentinos Juniors",
+        "en": "Argentinos Juniors"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "eventId": "sr:match:46657319",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "Estudiantes de La Plata vs. Argentinos Juniors",
+      "en": "Estudiantes de La Plata vs. Argentinos Juniors"
+    },
+    "scheduled": "2024-12-13T22:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:48",
+      "tournamentName": {
+        "es": "Primera División",
+        "en": "Liga Profesional"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:46657319",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 2.98,
+                "oddsUS": 198,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.303281,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 3.47,
+                "oddsUS": 247,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.258029,
+                "outcomeName": {
+                  "es": "Argentinos Juniors",
+                  "en": "Argentinos Juniors"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 2.1,
+                "oddsUS": 110,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.438691,
+                "outcomeName": {
+                  "es": "Estudiantes de La Plata",
+                  "en": "Estudiantes de La Plata"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:155",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "CA San Lorenzo de Almagro",
+        "en": "CA San Lorenzo de Almagro"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "CA Tigre",
+        "en": "CA Tigre"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "eventId": "sr:match:46657317",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "CA San Lorenzo de Almagro vs. CA Tigre",
+      "en": "CA San Lorenzo de Almagro vs. CA Tigre"
+    },
+    "scheduled": "2024-12-14T00:15:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:48",
+      "tournamentName": {
+        "es": "Primera División",
+        "en": "Liga Profesional"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:46657317",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 2.94,
+                "oddsUS": 194,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.305784,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 4.17,
+                "oddsUS": 317,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.212882,
+                "outcomeName": {
+                  "es": "CA Tigre",
+                  "en": "CA Tigre"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 1.92,
+                "oddsUS": -108.69565217391305,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.481336,
+                "outcomeName": {
+                  "es": "CA San Lorenzo de Almagro",
+                  "en": "CA San Lorenzo de Almagro"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:155",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "CA Banfield",
+        "en": "CA Banfield"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "CA Sarmiento Junin",
+        "en": "CA Sarmiento Junin"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    "eventId": "sr:match:46657309",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "CA Banfield vs. CA Sarmiento Junin",
+      "en": "CA Banfield vs. CA Sarmiento Junin"
+    },
+    "scheduled": "2024-12-14T00:15:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:48",
+      "tournamentName": {
+        "es": "Primera División",
+        "en": "Liga Profesional"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:46657309",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 2.81,
+                "oddsUS": 181,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.322867,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 3.19,
+                "oddsUS": 219,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.282922,
+                "outcomeName": {
+                  "es": "CA Sarmiento Junin",
+                  "en": "CA Sarmiento Junin"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 2.33,
+                "oddsUS": 133,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.394214,
+                "outcomeName": {
+                  "es": "CA Banfield",
+                  "en": "CA Banfield"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:8",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "RCD Espanyol Barcelona",
+        "en": "Espanyol Barcelona"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "España",
+        "en": "Spain"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "CA Osasuna",
+        "en": "CA Osasuna"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "España",
+        "en": "Spain"
+      }
+    },
+    "eventId": "sr:match:50852409",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "RCD Espanyol Barcelona vs. CA Osasuna",
+      "en": "Espanyol Barcelona vs. CA Osasuna"
+    },
+    "scheduled": "2024-12-14T13:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:32",
+      "tournamentName": {
+        "es": "LaLiga",
+        "en": "LaLiga"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:50852409",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 3.06,
+                "oddsUS": 206,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.295666,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 2.52,
+                "oddsUS": 152,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.362499,
+                "outcomeName": {
+                  "es": "CA Osasuna",
+                  "en": "CA Osasuna"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 2.66,
+                "oddsUS": 166,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.341845,
+                "outcomeName": {
+                  "es": "RCD Espanyol Barcelona",
+                  "en": "Espanyol Barcelona"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:23",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "Cagliari Calcio",
+        "en": "Cagliari Calcio"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Italia",
+        "en": "Italy"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Atalanta BC",
+        "en": "Atalanta BC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Italia",
+        "en": "Italy"
+      }
+    },
+    "eventId": "sr:match:51271727",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "Cagliari Calcio vs. Atalanta BC",
+      "en": "Cagliari Calcio vs. Atalanta BC"
+    },
+    "scheduled": "2024-12-14T14:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:31",
+      "tournamentName": {
+        "es": "Serie A",
+        "en": "Serie A"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:51271727",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 4.19,
+                "oddsUS": 319,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.206573,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 1.48,
+                "oddsUS": -208.33333333333334,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.63323,
+                "outcomeName": {
+                  "es": "Atalanta BC",
+                  "en": "Atalanta BC"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 5.36,
+                "oddsUS": 436,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.160206,
+                "outcomeName": {
+                  "es": "Cagliari Calcio",
+                  "en": "Cagliari Calcio"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:173",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "Oldham Athletic",
+        "en": "Oldham Athletic"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Inglaterra",
+        "en": "England"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Wealdstone FC",
+        "en": "Wealdstone FC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Inglaterra",
+        "en": "England"
+      }
+    },
+    "eventId": "sr:match:51445789",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "Oldham Athletic vs. Wealdstone FC",
+      "en": "Oldham Athletic vs. Wealdstone FC"
+    },
+    "scheduled": "2024-12-14T15:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:1",
+      "tournamentName": {
+        "es": "National League",
+        "en": "National League"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:51445789",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "odds": 3.92,
+                "oddsUS": 292,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.222478,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "1",
+                "odds": 1.53,
+                "oddsUS": -188.67924528301887,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.612682,
+                "outcomeName": {
+                  "es": "Oldham Athletic",
+                  "en": "Oldham Athletic"
+                }
+              },
+              {
+                "_id": "3",
+                "odds": 5.24,
+                "oddsUS": 424,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.164839,
+                "outcomeName": {
+                  "es": "Wealdstone FC",
+                  "en": "Wealdstone FC"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tournamentId": "sr:tournament:173",
+    "eventStatus": {
+      "statusEventSport": "NotStarted",
+      "matchStatus": {
+        "es": "No Iniciado",
+        "en": "Not started"
+      }
+    },
+    "coverageInfo": {
+      "isLive": true,
+      "bookingStatus": "Booked"
+    },
+    "competitorHome": {
+      "score": null,
+      "competitorName": {
+        "es": "Gateshead FC",
+        "en": "Gateshead FC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "home",
+      "countryName": {
+        "es": "Inglaterra",
+        "en": "England"
+      }
+    },
+    "competitorAway": {
+      "score": null,
+      "competitorName": {
+        "es": "Woking FC",
+        "en": "Woking FC"
+      },
+      "penaltyScore ": null,
+      "qualifier": "away",
+      "countryName": {
+        "es": "Inglaterra",
+        "en": "England"
+      }
+    },
+    "eventId": "sr:match:51445785",
+    "sportId": "sr:sport:1",
+    "sportEventName": {
+      "es": "Gateshead FC vs. Woking FC",
+      "en": "Gateshead FC vs. Woking FC"
+    },
+    "scheduled": "2024-12-14T15:00:00.000Z",
+    "eventType": "SoccerEvent",
+    "producerId": 3,
+    "producerName": "Ctrl",
+    "isCustomBet": "Active",
+    "tournament": {
+      "categoryId": "sr:category:1",
+      "tournamentName": {
+        "es": "National League",
+        "en": "National League"
+      }
+    },
+    "markets": [
+      {
+        "marketId": 1,
+        "producerId": 3,
+        "eventId": "sr:match:51445785",
+        "isBettingOpen": "Active",
+        "favourite": false,
+        "isMarketCustomBet": "Active",
+        "marketName": {
+          "es": "1x2",
+          "en": "1x2"
+        },
+        "marketLines": [
+          {
+            "specifiers": "",
+            "status": "Active",
+            "outcomes": [
+              {
+                "_id": "2",
+                "specifiers": "",
+                "odds": 4.07,
+                "oddsUS": 307,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.21391,
+                "outcomeName": {
+                  "es": "empate",
+                  "en": "draw"
+                }
+              },
+              {
+                "_id": "3",
+                "specifiers": "",
+                "odds": 5.19,
+                "oddsUS": 419,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.166117,
+                "outcomeName": {
+                  "es": "Woking FC",
+                  "en": "Woking FC"
+                }
+              },
+              {
+                "_id": "1",
+                "specifiers": "",
+                "odds": 1.51,
+                "oddsUS": -196.07843137254903,
+                "active": true,
+                "isPlayerOutcome": false,
+                "probability": 0.619972,
+                "outcomeName": {
+                  "es": "Gateshead FC",
+                  "en": "Gateshead FC"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
